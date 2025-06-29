@@ -1,0 +1,8 @@
+we need to show our screen width everytime 
+
+when we want some functionality in more than one component 
+there we use customEffect it's a function only   
+we have created the function(custom Hook) in hooks file
+
+
+hooks is nothing just the reusable logic kept in one file that can be used whereever required   
